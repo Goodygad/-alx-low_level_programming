@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 /**
  * main - Entry point
  * Return: Always 0
@@ -21,7 +22,9 @@ for (a = 0; a < 8; a++)
 		putchar(',');
 		putchar(' ');
 		}
+
 	}
+
 }
 return (0);
 }
