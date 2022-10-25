@@ -1,4 +1,4 @@
-#include "mai.h"
+#include "main.h"
 
 /**
  * puts2 - a function that prints every other
